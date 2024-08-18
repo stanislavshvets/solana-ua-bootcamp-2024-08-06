@@ -1,2 +1,13 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+.idea
+/.idea
+.pgdata
+/.pgdata
+
+# local env files
 .env
 .env*.local
